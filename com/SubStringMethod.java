@@ -1,0 +1,13 @@
+package com;
+
+public class SubStringMethod {
+public static void main(String args[]) {
+		
+		String s="Hi i am  a java programmer";
+		System.out.println(s.substring(3));
+		
+		System.out.println(s.substring(16,23));
+	}
+
+
+}
